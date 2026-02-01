@@ -4,6 +4,8 @@
 
 I am a **Front-End Engineer** with over **6 years of experience** in building **scalable**, **high-performance web applications**, specializing in **React.js**, **Next.js**, and **TypeScript**. I have a strong background in creating **dynamic**, **responsive**, and **user-centric interfaces**, integrating advanced **state management** solutions using **Redux Toolkit** and **React Query**, and delivering projects that **scale efficiently** for large user bases.
 
+Currently, I am working as a **Software Engineer Intern at Datadog**, where I am gaining hands-on experience building and maintaining production-grade systems, collaborating with large-scale engineering teams, and contributing to high-impact, data-intensive applications.
+
 Previously at **10Pearls LLC**, I led major frontend initiatives including **upgrading React 16 to React 18** for large codebases, **building custom data grids** with **ag-Grid**, integrating **AI GPT-4 LLMs** for automated financial reports, and **improving test coverage** from **15% to 80%** using **Jest** and **Cypress**. I also contributed to **backend API development** using **Node.js**, **Express.js**, and **Laravel**, ensuring **secure** and **performant cloud-ready systems**.
 
 Currently, I am pursuing my **Master’s in Computer Science at EPITA, Paris**, and seeking **internship opportunities** from **January 2026** to apply my **full-stack expertise**, **frontend development skills**, while continuing to grow in **modern software engineering practices**.
